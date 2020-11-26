@@ -5,10 +5,11 @@ Instance
 ----
 
 Pour nous :
-- https://noether-juiceshop.herokuapp.com/
+- https://noether-juice-shop.herokuapp.com/
 
 https://the-death-chicken-crew.herokuapp.com
 https://sauron-was-right.herokuapp.com
+https://fez-are-cool.herokuapp.com/#/
 
 Guide
 -----
